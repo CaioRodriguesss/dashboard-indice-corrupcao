@@ -3,7 +3,6 @@
 <h2>Visualização temporária</h2>
 
 <img src="gif.gif" alt=gif>
-<br><br>
 
 <h2>O projeto</h2>
 <p> Em resumo, o projeto é um aplicativo web interativo, desenvolvido com o objetivo de obter uma forma melhor de visualizar os dados do índice de corrupção mundial.</p>
