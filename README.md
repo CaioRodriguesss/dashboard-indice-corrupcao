@@ -1,6 +1,7 @@
 <h1>Dashboard Índice de Percepção de Corrupção Mundial</h1>
 
 <h2>Visualização temporária</h2>
+<p>(Recarregue a página caso o GIF não apareça)</p>
 
 <img src="gif.gif" alt=gif>
 
