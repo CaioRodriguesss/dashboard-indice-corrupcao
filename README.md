@@ -6,7 +6,7 @@
 <img src="gif.gif" alt=gif>
 
 <h2>O projeto</h2>
-<p> Em resumo, o projeto é um aplicativo web interativo, desenvolvido com o objetivo de obter uma forma melhor de visualizar os dados do índice de corrupção mundial.</p>
+<p>Em resumo, o projeto é um aplicativo web interativo, desenvolvido com o objetivo de obter uma forma melhor de visualizar os dados do índice de corrupção mundial.</p>
 
 <h3>Arquivos necessários para rodar o aplicativo</h3>
 <p>É preciso ter o Python instalado no computador e as bibliotecas necessárias.</p>
@@ -16,7 +16,7 @@
     <li>countries.geo.json</li>
 </ul>
 
-<h2>Arquivos utilizados para manipulação dos dados</h2>
+<h3>Arquivos utilizados para manipulação dos dados</h3>
 <ul>
     <li>transformacao.py</li>
     <li>corruption_data.csv</li>
