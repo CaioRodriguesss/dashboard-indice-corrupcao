@@ -8,9 +8,31 @@
 <h2>O projeto</h2>
 <p> Em resumo, o projeto é um aplicativo web interativo, desenvolvido com o objetivo de obter uma forma melhor de visualizar os dados do índice de corrupção mundial.</p>
 
+<h3>Arquivos necessários para rodar o aplicativo</h3>
+<p>É preciso ter o Python instalado no computador e as bibliotecas necessárias.</p>
+<ul>
+    <li>app.py</li>
+    <li>new_corruption_data.csv</li>
+    <li>countries.geo.json</li>
+</ul>
+
+<h3>Arquivos utilizados para manipulação dos dados</h3>
+<ul>
+    <li>transformacao.py</li>
+    <li>corruption_data.csv</li>
+    <li>regional_codes_iso3166.csv</li>
+    <li>ajuste_df.csv</li>
+</ul>
+
 <h2>Tecnologias utilizadas</h2>
 <ul>
-    <li>Python (Pandas, Plotly, Dash)</li>
+    <li>Python v3.10.7</li>
+    <li>Pandas v1.5.0</li>
+    <li>Plotly v5.10.0</li>
+    <li>Dash v2.6.2</li>
+    <li>Dash Core Components v2.0.0</li>
+    <li>Dash HTML Components v2.0.0</li>
+    <li>Dash Bootstrap Components v1.2.1</li>
     <li>Json</li>
     <li>CSV</li>
 </ul>
