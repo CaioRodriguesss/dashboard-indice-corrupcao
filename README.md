@@ -16,7 +16,7 @@
     <li>countries.geo.json</li>
 </ul>
 
-<h3>Arquivos utilizados para manipulação dos dados</h3>
+<h2>Arquivos utilizados para manipulação dos dados</h2>
 <ul>
     <li>transformacao.py</li>
     <li>corruption_data.csv</li>
